@@ -104,3 +104,4 @@ deploy:
   type: git
   repository: https://github.com/Hypn0tised-ysy/Hypn0tised-ysy.github.io.git  
   branch: main
+
